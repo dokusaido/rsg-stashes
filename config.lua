@@ -22,5 +22,13 @@ Config.Stashes = {
 
 Config.Counters = {
     ["counter_1"] = { name = "Old Light Saloon Counter", size = 3000, slots = 25, location = vector3(2948.47, 527.25, 45.37) },
-    ["counter_2"] = { name = "Outdoor Counter", size = 3000, slots = 25, location = vector3(-1550.0, 505.0, 60.0) }
+    ["counter_2"] = { name = "Smithfield's Saloon Counter", size = 3000, slots = 25, location = vector3(-313.05, 806.32, 118.95) },
+    ["counter_3"] = { name = "Keane's Saloon Counter", size = 3000, slots = 25, location = vector3(-239.73, 769.90, 118.02) },
+    ["counter_4"] = { name = "Emerald's Saloon Counter", size = 3000, slots = 25, location = vector3(1450.22, 369.50, 89.90) },
+    ["counter_5"] = { name = "Bastille's Saloon Counter", size = 3000, slots = 25, location = vector3(2638.54, -1224.95, 53.54) },
+    ["counter_6"] = { name = "Doyles's Saloon Counter", size = 3000, slots = 25, location = vector3(2793.5815, -1168.4628, 49.0273) },
+    ["counter_7"] = { name = "Parlour's Saloon Counter", size = 3000, slots = 25, location = vector3(1340.9543, -1374.5811, 80.6249) },
+    ["counter_8"] = { name = "Blackwater's Saloon Counter", size = 3000, slots = 25, location = vector3(-816.9295, -1319.1123, 43.8425) },
+    ["counter_9"] = { name = "Armadillo's Saloon Counter", size = 3000, slots = 25, location = vector3(-3700.3945, -2594.0410, -13.2473) },
+    ["counter_10"] = { name = "Tumbleweed's Saloon Counter", size = 3000, slots = 25, location = vector3(-5516.9351, -2906.3601, -1.7337) },
 }
