@@ -7,13 +7,13 @@ Stashes used for Saloons and Law
 </h2>
 
 <!-- Visitor Badge -->
-<a href="https://github.com/YOUR_USERNAME/FiveM-Stash-Script">
+<a href="https://github.com/dokusaido/rsg-stashse">
   <img align="right" src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
 <!-- Introduction Section -->
 <h3 align="left">
-  <samp>&gt; Welcome, Server Administrators!
+  <samp>&gt; Welcome, Cowboys and Cowgirls!
   </samp>
 </h3>
 
@@ -40,6 +40,14 @@ Stashes used for Saloons and Law
   <ul>
     <li>Do not modify, redistribute, or monetize this package without permission.</li>
     <li>Ensure your FiveM server has the required dependencies installed for this script to function properly.</li>
+  </ul>
+</p>
+
+<!-- Known Issues -->
+<h3 align="left">Known Issues</h3>
+<p>
+  <ul>
+    <li>Job-based stashes can be accessed from any configured location rather than the specific assigned location. A location check workaround is being implemented to address this.</li>
   </ul>
 </p>
 
@@ -79,3 +87,5 @@ Config.Stashes = {
     ["medic"] = { name = "Medic Supply Cabinet", size = 2000, slots = 50, location = vector3(-1350.56, 400.78, 56.0) }
     -- Add more stashes as needed
 }
+
+</details> <!-- Contact Section --> <h3 align="left">Contact</h3> <p align="left"> No direct support is provided, but issues raised on GitHub will be reviewed. </p> <!-- Credits Placeholder --> <details> <summary>Click to Expand - Credits</summary>
