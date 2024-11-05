@@ -22,12 +22,12 @@ RegisterServerEvent('rsg-stash:server:openCounterStorage')
 AddEventHandler('rsg-stash:server:openCounterStorage', function(counterName)
     local src = source
     local counterConfig = Config.Counters[counterName]
-    print('Received openCounterStorage event for:', counterName) -- Server-side debug log
+    --print('Received openCounterStorage event for:', counterName) -- Server-side debug log
     if counterConfig then
         local data = { label = counterConfig.name, maxweight = counterConfig.size, slots = counterConfig.slots }
         local stashName = 'public_counter_' .. counterName
 
-        print("Opening inventory for:", stashName) -- Additional server-side debug log
+        --print("Opening inventory for:", stashName) -- Additional server-side debug log
         exports['rsg-inventory']:OpenInventory(src, stashName, data)
     else
         TriggerClientEvent('rsg-core:notify', src, "Counter configuration not found.")
