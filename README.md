@@ -7,7 +7,7 @@ Stashes used for Saloons and Law
 </h2>
 
 <!-- Visitor Badge -->
-<a href="https://github.com/dokusaido/rsg-stashse">
+<a href="https://github.com/dokusaido/rsg-stashes">
   <img align="right" src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
