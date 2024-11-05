@@ -33,6 +33,15 @@ Stashes used for Saloons and Law
   This stash system is designed to give players access to unique, job-based storages at specific locations. Each job has its own assigned stash that is only accessible at the designated spot, ensuring immersive and organized storage.
 </p>
 
+<!-- Dependencies -->
+<h3 align="left">Dependencies</h3>
+<ul>
+  <li>rsg-core</li>
+  <li>ox_lib</li>
+  <li>ox_target</li>
+  <li>rsg-inventory</li>
+</ul>
+
 <!-- Important Notice -->
 <h3 align="left">Important ⚠️</h3>
 <p>
