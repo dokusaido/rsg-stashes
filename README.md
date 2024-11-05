@@ -3,7 +3,7 @@ Stashes used for Saloons and Law
 
 <!-- Banner Section -->
 <h2 align="left">
-  FiveM Stash Script
+  RSG Stash Script
 </h2>
 
 <a href="https://github.com/dokusaido/rsg-stashes">
@@ -18,7 +18,7 @@ Stashes used for Saloons and Law
 
 <p align="left"> 
   <samp>
-    This script allows for job-specific and location-specific stash access in FiveM, enhancing immersion and roleplay in your server.
+    This script allows for job-specific and location-specific stash access in RedM, enhancing immersion and roleplay in your server.
     <br>
     <br>
   </samp>
@@ -38,7 +38,7 @@ Stashes used for Saloons and Law
 <p>
   <ul>
     <li>Do not modify, redistribute, or monetize this package without permission.</li>
-    <li>Ensure your FiveM server has the required dependencies installed for this script to function properly.</li>
+    <li>Ensure your Redm server has the required dependencies installed for this script to function properly.</li>
   </ul>
 </p>
 
