@@ -95,5 +95,6 @@ Config.Stashes = {
     ["medic"] = { name = "Medic Supply Cabinet", size = 2000, slots = 50, location = vector3(-1350.56, 400.78, 56.0) }
     -- Add more stashes as needed
 }
+```
 
 </details> <!-- Contact Section --> <h3 align="left">Contact</h3> <p align="left"> No direct support is provided, but issues raised on GitHub will be reviewed. </p> <!-- Credits Placeholder --> <details> <summary>Click to Expand - Credits</summary>
